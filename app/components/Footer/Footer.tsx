@@ -83,7 +83,7 @@ const Footer = () => {
               <strong>Phone:</strong> +91-7303031659
             </p>
             <p className="text-offwhite text-sm mb-4">
-              <strong>Email:</strong> info@gmail.com
+              <strong>Email:</strong> info@ilc.limited
             </p>
             <p className="text-offwhite text-sm mb-4">
               <strong>Regional Office:</strong> 1889/1, Opp Ana Sagar Lake, Chupati GauravPath, Ajmer, 305001
